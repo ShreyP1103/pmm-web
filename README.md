@@ -2,7 +2,7 @@
 Portfolio of Product Marketing &amp; Web3 projects by Shreya Sharma
 # 🚀 Shreya Sharma – Product Marketing x Web3 Portfolio
 
-Welcome to my professional portfolio. I’m a Product Marketing Manager with 4.5+ years in SaaS, GTM, CRM, and campaign strategy – and now exploring the exciting world of Web3.
+Welcome to my professional portfolio. I’m a Product Marketing Manager with 4.5+ years of experience in SaaS, GTM, CRM, and campaign strategy. I'm now exploring the exciting world of Web3.
 
 ---
 
@@ -18,5 +18,5 @@ Welcome to my professional portfolio. I’m a Product Marketing Manager with 4.5
 ---
 
 ## 🔗 Connect
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/shreya-sharma-4747b8156/)
 
