@@ -1,4 +1,4 @@
-OTT Brand Strategy & User Retention: Netflix Case Study (India)
+
 
 ### 1. OTT Brand Strategy: Netflix (India)
 Analyzed user pain points, created personas, and proposed UX+GTM changes to improve retention for the Indian OTT audience  
