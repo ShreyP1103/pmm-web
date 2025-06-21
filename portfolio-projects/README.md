@@ -14,5 +14,5 @@ Analyzed one of the largest media acquisitions of the last decade from multiple 
 - Breakdown of timeline, financial rationale, and synergy outcomes
 - Includes valuation ranges from buyer & seller perspectives
 - Strategic lens: Streaming wars, IP portfolio, and global scale
-  📄[View Deck](https://docs.google.com/presentation/d/1AuhN2iMnt30Gvamf5k3TAzNiLuJNt2wVvMbp2mKWFfU/preview
+  📄[View Case Study](https://docs.google.com/presentation/d/1AuhN2iMnt30Gvamf5k3TAzNiLuJNt2wVvMbp2mKWFfU/preview
 )
