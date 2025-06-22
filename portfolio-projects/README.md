@@ -10,7 +10,8 @@ A critical analysis of the Facebook–Cambridge Analytica fallout with a comms a
 ### 3. Lifecycle GTM Campaign – PG Segment (B2B Wi-Fi, India 2024)
 A full-funnel product marketing campaign launched for a mid-sized Wi-Fi provider targeting PG accommodations. Included ICP definition, value proposition, Meta ad strategy, WhatsApp flows, and lead conversion optimization.
 
-🔗 [View Case Study (Google Slides)](https://docs.google.com/presentation/d/1Cu5jo-clkOPGiuqP8JVMv4Z0nFEBt4ueEtlATqRmffw/edit?usp=sharing)
+🔗 [View Deck](https://docs.google.com/presentation/d/1Cu5jo-clkOPGiuqP8JVMv4Z0nFEBt4ueEtlATqRmffw/edit?usp=sharing)
+
 
 
 ### 4.🎬 Strategic M&A Breakdown – Disney × 21st Century Fox
