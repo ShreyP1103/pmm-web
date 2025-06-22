@@ -12,9 +12,18 @@ A full-funnel product marketing campaign launched for a mid-sized Wi-Fi provider
 
 🔗 [View Deck](https://docs.google.com/presentation/d/1Cu5jo-clkOPGiuqP8JVMv4Z0nFEBt4ueEtlATqRmffw/present)
 
+### 4. GTM Strategy: AI-Powered HRTech Platform (Hospitality)
 
+Designed and executed a Go-to-Market plan for an early-stage HRTech product built for the hospitality sector. The strategy focused on solving challenges like high churn, low digital adoption, and disorganized recruitment using AI automation and smart UX.
 
-### 4.🎬 Strategic M&A Breakdown – Disney × 21st Century Fox
+🎯 Highlights:
+- Persona discovery via 100+ field interviews
+- Multilingual funnel + hotel school partnerships
+- Meta ads, WhatsApp QR posters, and demo pilots
+
+📄 [View Case Study](https://docs.google.com/presentation/d/e/2PACX-1vSS5-dYh2OACQ8fZ6UwzJP4Z9_04yNY8uLEUAT5ZxISzYKz6XL7mj7mR-7iKh6RnTKCe3AkI3XyoDgO/pub?start=false&loop=false&delayms=3000)
+
+### 5.🎬 Strategic M&A Breakdown – Disney × 21st Century Fox
 
 Analyzed one of the largest media acquisitions of the last decade from multiple dimensions – valuation, industry shifts, synergy mapping, and deal dynamics.
 
