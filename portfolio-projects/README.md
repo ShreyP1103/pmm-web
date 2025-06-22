@@ -21,7 +21,7 @@ Designed and executed a Go-to-Market plan for an early-stage HRTech product buil
 - Multilingual funnel + hotel school partnerships
 - Meta ads, WhatsApp QR posters, and demo pilots
 
-📄 [View Case Study](https://docs.google.com/presentation/d/e/2PACX-1vSS5-dYh2OACQ8fZ6UwzJP4Z9_04yNY8uLEUAT5ZxISzYKz6XL7mj7mR-7iKh6RnTKCe3AkI3XyoDgO/pub?start=false&loop=false&delayms=3000)
+📄 [View Case Study](https://docs.google.com/presentation/d/12DlagjQKs4BZlsahmuZqKKUlNhh1CMN91fjOzzyDHBE/present)
 
 ### 5.🎬 Strategic M&A Breakdown – Disney × 21st Century Fox
 
