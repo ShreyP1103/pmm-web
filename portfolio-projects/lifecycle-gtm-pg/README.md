@@ -1,6 +1,4 @@
-# 📢 Lifecycle GTM Campaign – PG Segment
-
-# Spectra SaaS Vertical GTM 🚀
+# 📢 Lifecycle GTM Campaign – Spectra SaaS Vertical 🚀
 
 > **Launching industry-specific SaaS verticals with a full-funnel marketing strategy to drive awareness, engagement, and conversions.**
 
