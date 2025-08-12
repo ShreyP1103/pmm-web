@@ -1,72 +1,65 @@
-# 📢 # Spectra SaaS Vertical GTM – C&U Industry🚀 
+# SaaS Email Nurture & Automation Flows ✉️
 
-> **Created and launched vertical-specific landing pages, email nurture flows, and social campaigns — increasing inbound leads by 42% and boosting engagement rates by 35% within 3 months**
+> **Designed and automated segmented email journeys — improving open rates by 18% and pipeline conversion by 22% through targeted messaging and A/B testing.**
 
 [![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)]()
 [![Google Analytics 4](https://img.shields.io/badge/GA4-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 [![Email Marketing](https://img.shields.io/badge/Email%20Marketing-0073AA?style=for-the-badge&logo=mailchimp&logoColor=white)]()
-[![Social Media](https://img.shields.io/badge/Social%20Media-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 
 ---
 
 ## 📌 Overview
-As the Product Marketing Lead for the C&U vertical, I developed and executed a **go-to-market strategy** covering landing page creation, brand messaging, email automation, and targeted social media campaigns.
-
-The goal: **boost lead generation, engage the right audience, and solidify Spectra's presence in the C&U SaaS market.**
+Led the end-to-end creation of **email nurture and automation flows** to improve lead engagement, increase pipeline conversion, and shorten the sales cycle for a SaaS platform.
 
 ---
 
 ## 🎯 Challenge
-Spectra wanted to penetrate the **C&U SaaS market** with a unique value proposition while standing out against established competitors.
-
-Key challenges:
-- Creating **industry-specific messaging** for diverse stakeholders
-- Building **conversion-optimized landing pages** from scratch
-- Driving awareness without inflating CAC
+- Low engagement rates in legacy email campaigns.  
+- Lack of segmentation and personalization.  
+- Limited automation, resulting in delayed follow-ups.  
 
 ---
 
 ## 🛠 Strategy
-I implemented a **full-funnel GTM plan**:
-1. **Landing Pages** – Targeted copy, compelling CTAs, and trust-building design.
-2. **Email Nurture** – Automated multi-touch sequences for prospects & customers.
-3. **Social Campaigns** – Organic + paid campaigns focusing on pain points and benefits.
-4. **Data-Driven Optimization** – Continuous A/B testing and iteration.
+1. **Audience Segmentation** – Grouped contacts based on lifecycle stage, vertical, and engagement history.  
+2. **Content Mapping** – Aligned email content with buyer journey stages.  
+3. **Automation Setup** – Built workflows in HubSpot for lead nurturing, upsell, and re-engagement.  
+4. **A/B Testing** – Optimized subject lines, CTAs, and send times.  
 
 ---
 
 ## 🚀 Execution
-- **Owned creative direction** for landing pages, collaborating with design & dev teams.
-- Built **email automation flows** in HubSpot, including segmentation and triggers.
-- Managed **social content calendar**, creative approvals, and engagement tracking.
-- Conducted **customer & prospect calls** to fine-tune messaging.
-- Leveraged **GA4 & HubSpot analytics** to track performance and iterate quickly.
+- Designed **multi-touch email sequences** for prospects and customers.  
+- Created **personalized messaging** for each vertical and persona.  
+- Implemented **trigger-based automation** for instant follow-up on form fills and key interactions.  
+- Conducted ongoing **A/B tests** to improve engagement.  
+- Used GA4 & HubSpot reports to **track conversions** and adjust strategies.  
 
 ---
 
 ## 📈 Results
-- **+42% inbound leads** within 3 months of launch.
-- **+35% engagement rate** on vertical-specific landing pages.
-- **-14% CAC** through targeted ad spend and organic content lift.
-- Framework replicated for **PG & Hotels verticals**.
+- **+18%** increase in open rates across campaigns.  
+- **+22%** improvement in pipeline conversion rate.  
+- Reduced lead follow-up time by **80%** through automation.  
 
 ---
 
 ## 🧰 Tools Used
 - HubSpot  
 - GA4  
-- Figma  
+- Figma (for email template design)  
 - Canva  
-- LinkedIn, Twitter  
+- Mailchimp (for specific campaigns)  
 
 ---
 
 ## 👩‍💼 Role
-**Product Marketing Lead** — owned GTM strategy, messaging, campaign execution, and performance optimization.
+**Product Marketing Lead** – owned strategy, content, automation setup, and optimization.
 
 ---
 
 ## 🔗 Project Links
-- **GitHub Repository:** [View Case Study Repo](https://github.com/ShreyP1103/pmm-web/edit/main/portfolio-projects/lifecycle-gtm-pg/README.md)
-- **PPTX Presentation:** [View Presentation](https://docs.google.com/presentation/d/1Cu5jo-clkOPGiuqP8JVMv4Z0nFEBt4ueEtlATqRmffw/present?slide=id.p1)
+- **GitHub Repository:** [View Case Study Repo](YOUR_REPO_LINK)
+- **PPTX Presentation:** [Download Editable Presentation](YOUR_PPTX_LINK)
+- **Live Portfolio Page:** [View on My Website](YOUR_WEBSITE_LINK)
