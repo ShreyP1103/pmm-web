@@ -1,6 +1,6 @@
-# 📢 Lifecycle GTM Campaign – Spectra SaaS Vertical 🚀
+# 📢 # Spectra SaaS Vertical GTM – C&U Industry🚀 
 
-> **Launching industry-specific SaaS verticals with a full-funnel marketing strategy to drive awareness, engagement, and conversions.**
+> **Created and launched vertical-specific landing pages, email nurture flows, and social campaigns — increasing inbound leads by 42% and boosting engagement rates by 35% within 3 months**
 
 [![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)]()
 [![Google Analytics 4](https://img.shields.io/badge/GA4-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)]()
@@ -11,61 +11,60 @@
 ---
 
 ## 📌 Overview
-Developed and executed a **go-to-market strategy** for multiple SaaS verticals under the Spectra brand — covering **landing pages, brand messaging, email automation, and social media campaigns** — to boost lead generation and strengthen brand positioning.
+As the Product Marketing Lead for the C&U vertical, I developed and executed a **go-to-market strategy** covering landing page creation, brand messaging, email automation, and targeted social media campaigns.
+
+The goal: **boost lead generation, engage the right audience, and solidify Spectra's presence in the C&U SaaS market.**
 
 ---
 
 ## 🎯 Challenge
-Spectra was expanding into multiple industry-specific verticals, each requiring:
-- Distinct **value propositions** & messaging
-- Vertical-specific **landing pages** optimized for conversions
-- Coordinated brand presence across **social & email**
-- Clear positioning to **stand out from competitors**
+Spectra wanted to penetrate the **C&U SaaS market** with a unique value proposition while standing out against established competitors.
+
+Key challenges:
+- Creating **industry-specific messaging** for diverse stakeholders
+- Building **conversion-optimized landing pages** from scratch
+- Driving awareness without inflating CAC
 
 ---
 
 ## 🛠 Strategy
-Designed a **full-funnel GTM plan** for each vertical:
-1. **Landing Pages** – Industry-specific copywriting & conversion-focused design
-2. **Email Nurture** – Segmented automation flows for prospects & customers
-3. **Social Media** – Brand awareness & engagement campaigns tailored to vertical pain points
-4. **Brand Voice** – Consistent messaging across all touchpoints
+I implemented a **full-funnel GTM plan**:
+1. **Landing Pages** – Targeted copy, compelling CTAs, and trust-building design.
+2. **Email Nurture** – Automated multi-touch sequences for prospects & customers.
+3. **Social Campaigns** – Organic + paid campaigns focusing on pain points and benefits.
+4. **Data-Driven Optimization** – Continuous A/B testing and iteration.
 
 ---
 
 ## 🚀 Execution
-- Led **copywriting, design direction, and creative approvals** for landing pages
-- Built **email automation sequences** in HubSpot
-- Managed **social media content calendar** & creative production
-- Coordinated **customer meetings & prospect calls** to align campaigns with feedback
-- Used **GA4 & HubSpot analytics** to monitor performance and optimize
+- **Owned creative direction** for landing pages, collaborating with design & dev teams.
+- Built **email automation flows** in HubSpot, including segmentation and triggers.
+- Managed **social content calendar**, creative approvals, and engagement tracking.
+- Conducted **customer & prospect calls** to fine-tune messaging.
+- Leveraged **GA4 & HubSpot analytics** to track performance and iterate quickly.
 
 ---
 
 ## 📈 Results
-- **+42%** increase in inbound leads across targeted verticals in 3 months  
-- **+35%** higher engagement on vertical-specific landing pages vs generic  
-- **-14%** reduction in customer acquisition cost (CAC)  
-- Built a repeatable GTM playbook for future vertical launches
+- **+42% inbound leads** within 3 months of launch.
+- **+35% engagement rate** on vertical-specific landing pages.
+- **-14% CAC** through targeted ad spend and organic content lift.
+- Framework replicated for **PG & Hotels verticals**.
 
 ---
 
 ## 🧰 Tools Used
-- **HubSpot** – Email automation & CRM  
-- **Google Analytics 4 (GA4)** – Campaign tracking & analysis  
-- **Figma** – Landing page design collaboration  
-- **Canva** – Social media creative production  
-- **LinkedIn / Twitter** – Paid & organic social campaigns  
+- HubSpot  
+- GA4  
+- Figma  
+- Canva  
+- LinkedIn, Twitter  
 
 ---
 
-## 👩‍💼 Role & Contribution
-- **Brand Owner** for all vertical GTM campaigns  
-- Directed **creative, messaging, and positioning**  
-- Coordinated **cross-functional marketing, design, and sales teams**  
-- Ensured campaigns were **data-driven & performance-optimized**  
+## 👩‍💼 Role
+**Product Marketing Lead** — owned GTM strategy, messaging, campaign execution, and performance optimization.
 
----
 ---
 
 ## 🔗 Project Links
