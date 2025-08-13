@@ -69,7 +69,8 @@ I implemented a **full-funnel GTM plan**:
 
 ## 🔗 Project Links
 - **GitHub Repository:** [View Case Study Repo](https://github.com/ShreyP1103/pmm-web/edit/main/portfolio-projects/lifecycle-gtm-pg/README.md)
-- **PPTX Presentation:** [View Presentation](https://docs.google.com/presentation/d/1Cu5jo-clkOPGiuqP8JVMv4Z0nFEBt4ueEtlATqRmffw/present?slide=id.p1)
+- **PPTX Presentation:** [View Presentation](https://docs.google.com/presentation/d/1paHBHXoeGUImCaMRAfUVRmEf42kFwRGMXI5C7-AjYGk/present
+)
 - **Live Portfolio Page:** [View on My Website](YOUR_WEBSITE_LINK_HERE)
 
 
