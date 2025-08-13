@@ -60,6 +60,7 @@ Led the end-to-end creation of **email nurture and automation flows** to improve
 ---
 
 ## 🔗 Project Links
-- **GitHub Repository:** [View Case Study Repo](YOUR_REPO_LINK)
-- **PPTX Presentation:** [Download Editable Presentation](YOUR_PPTX_LINK)
+- **GitHub Repository:** [View Case Study Repo](https://github.com/ShreyP1103/pmm-web/edit/main/portfolio-projects/email-nurture-automation-flows/README.md)
+- **PPTX Presentation:** [Detailed Case Study](https://docs.google.com/presentation/d/1MXCJxJ1hkq_SgGJHN5n95K4xUp20zQZAcC0xSjpSjPY/present
+  
 - **Live Portfolio Page:** [View on My Website](YOUR_WEBSITE_LINK)
