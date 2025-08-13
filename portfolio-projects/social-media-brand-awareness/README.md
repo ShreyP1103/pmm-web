@@ -50,6 +50,7 @@ Spectra aimed to establish a **consistent and impactful brand presence** across 
 ---
 
 ## 🔗 Links
-- 📄 **Case Study PPT**: [Link to presentation]()
+- 📄 **Case Study PPT**: [Link to presentation](https://docs.google.com/presentation/d/1JT2n2zffeixU5MpUmQiEFu1et1Dio21_1-qIxpPB-Fk/present
+)
 - 📂 **GitHub README**: [Link to this file]()
 - 🌐 **Portfolio Website**: [https://shreyasharmaproduct.pro](https://shreyasharmaproduct.pro)
